@@ -4,4 +4,4 @@ This is the third lesson in the front end course. Though there are a lot of file
 
 Right here, we are going to learn about common HTML tags and how to work from the content out. We're going to put the content in its proper tags and then build out our sections in a basic way. 
 
-I have also include an .ai file of the site we'll be designing, which took a whopping 15 to do. 
+I have also include an .ai file of the site we'll be designing, which took a whopping 15 to do. It's in the `_source-files` directory.
