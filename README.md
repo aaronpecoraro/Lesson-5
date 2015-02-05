@@ -1,7 +1,3 @@
-# Design Lesson 3 Sample Project
+# Design Lesson 4 Sample Project
 
-This is the third lesson in the front end course. Though there are a lot of files in place right now, such as CSS and JavaScript, we're not going to get to those until much later in the course. 
-
-Right here, we are going to learn about common HTML tags and how to work from the content out. We're going to put the content in its proper tags and then build out our sections in a basic way. 
-
-I have also include an .ai file of the site we'll be designing, which took a whopping 15 to do. It's in the `_source-files` directory.
+Introducing CSS. We'll go over a variety of concepts before we learn how to put a website together. 
