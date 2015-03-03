@@ -1,3 +1,3 @@
-# Design Lesson 4 Sample Project
+# Design Lesson 5 Sample Project
 
-Introducing CSS. We'll go over a variety of concepts before we learn how to put a website together. 
+We are going to start building the website included in the `_source_files` folder.  

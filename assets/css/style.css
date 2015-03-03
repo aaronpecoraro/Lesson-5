@@ -1,0 +1,18 @@
+@import url("reset.css");
+
+/* ======================================
+	Reusable Classes
+========================================= */
+/* Clearfix */
+.cf:before,
+.cf:after {
+    content: " ";
+    display: table; 
+}
+.cf:after {
+    clear: both;
+}
+/*For IE 6/7 only */
+.cf {
+    *zoom: 1;
+}
